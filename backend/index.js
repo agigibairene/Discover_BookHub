@@ -1,0 +1,49 @@
+const express = require('express');
+const mongoose = require('mongoose');
+const cors = require('cors');
+const session = require('express-session');
+require('dotenv').config();
+
+const app = express();
+const port = 3000;
+
+// Middleware
+app.use(express.json());
+app.use(cors({
+  origin: ["http://localhost:5173"],
+  credentials: true
+}));
+
+app.use(session({
+  secret: process.env.secretKey || "default_secret",
+  resave: false,
+  saveUninitialized: true,
+}));
+
+// Import the books routes
+const booksRoute = require("./src/books/books.route");
+const authorsRoute = require("./src/authors/authors.route");
+app.use("/api/books", booksRoute);
+app.use("/api/authors", authorsRoute);
+// MongoDB connection
+async function main() {
+  try {
+      await mongoose.connect(process.env.MongoDB_URL, {
+          useNewUrlParser: true,
+          useUnifiedTopology: true
+      });
+      console.log("MongoDB connected successfully");
+  } catch (err) {
+      console.error("MongoDB connection error:", err);
+  }
+}
+
+main();
+
+app.get('/', (req, res) => {
+  res.send('Discovery app is running');
+});
+
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});

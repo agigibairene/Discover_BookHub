@@ -1,0 +1,78 @@
+
+
+
+{
+  "id": 1,
+  "name": "Chimamanda Ngozi",
+  "text": "Award-winning Nigerian author known for 'Half of a Yellow Sun' and 'Americanah'.",
+  "image": "https://pyxis.nymag.com/v1/imgs/1d1/f6b/d6f89e73cc601a0f1c87ae2a2dfee3b3d3-02-chimamanda-2.rvertical.w570.jpg"
+}
+{
+  "id": 2,
+  "name": "George Orwell",
+  "text": "British novelist famous for '1984' and 'Animal Farm', exploring themes of surveillance.",
+  "image": "https://www.shutterstock.com/image-photo/george-orwell-mit-facepalm-260nw-2413901365.jpg"
+}
+{
+  "id": 3,
+  "name": "J.K. Rowling",
+  "text": "Best known for the 'Harry Potter' series, which has captivated readers worldwide.",
+  "image": "https://assets.vogue.com/photos/5ede6b82ee8c91c3fcb944f2/master/w_2560%2Cc_limit/GettyImages-950047366.jpg"
+}
+{
+  "id": 4,
+  "name": "Toni Morrison",
+  "text": "Pulitzer and Nobel Prize-winning author of 'Beloved' and 'The Bluest Eye'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Toni_Morrison.jpg/1200px-Toni_Morrison.jpg"
+}
+{
+  "id": 5,
+  "name": "Chinua Achebe",
+  "text": "Nigerian literary icon and author of 'Things Fall Apart', a cornerstone of African literature.",
+  "image": "https://africanarguments.org/wp-content/uploads/2013/03/Chinua_Achebe.jpg"
+}
+{
+  "id": 6,
+  "name": "Adam Grant",
+  "text": "Organizational psychologist and bestselling author of 'Give and Take' and 'Think Again'.",
+  "image": "https://www.nbforum.com/wp-content/uploads/Adam-Grant-1.png"
+}
+{
+  "id": 7,
+  "name": "Robin Sharma",
+  "text": "Renowned leadership expert and author of 'The Monk Who Sold His Ferrari' and 'The 5 AM Club'.",
+  "image": "https://blackhattalent.com/wp-content/uploads/2023/08/robinsharma.jpg"
+}
+{
+  "id": 8,
+  "name": "Simon Sinek",
+  "text": "Inspirational speaker and author of 'Start With Why' and 'Leaders Eat Last'.",
+  "image": "https://www.toolshero.com/wp-content/uploads/simon-sinek-toolshero.jpg"
+}
+{
+  "id": 9,
+  "name": "Kenneth Hagin",
+  "text": "Influential minister and author of 'The Believer’s Authority' and other faith-based books.",
+  "image": "https://i.pinimg.com/736x/91/e0/3c/91e03c230e396824020704620256729c.jpg"
+}
+{
+  "id": 10,
+  "name": "James Clear",
+  "text": "Author of the best-selling book 'Atomic Habits', focusing on the science of habits.",
+  "image": "https://imageio.forbes.com/specials-images/imageserve/65e2706d5bffb26a11c4f060/James-Clear--2-/960x0.jpg?format=jpg&width=960"
+}
+{
+  "id": 9,
+  "name": "James Allen",
+  "text": "Philosopher and author of 'As a Man Thinketh', exploring the power of thought.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexEhKW_Gj0mvaFqn3o5op0KCWCpb9mUPHWg&s"
+}
+{
+  "id": 10,
+  "name": "Joyce Meyer",
+  "text": "Popular speaker, best known for her books on Christian living, including 'Battlefield of the Mind'.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEX28TfT_MBNP3R5KmxSYaIryRQ6K38XjpHg&s"
+}
+
+
+

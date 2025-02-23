@@ -1,0 +1,903 @@
+
+    {
+      "title": "Mere Christianity",
+      "id": 1,
+      "summary": "An accessible and intelligent defense of the Christian faith. C.S. Lewis explores fundamental Christian beliefs, presenting logical arguments for the existence of God and the divinity of Jesus Christ. This book bridges the gap between different denominations, focusing on the core tenets of Christianity that all believers share. It has remained a classic for its clarity and persuasive reasoning.",
+      "author": "C.S. Lewis",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4qQWbwmcgw8Y61JyyvGous50TekGgLRyfVBamezdg5xFJ36EeuUWs_N-7YSOanhgaT4&usqp=CAU",
+      "publishedDate": "1952",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "The Case for Christ",
+      "id": 2,
+      "summary": "Lee Strobel, an investigative journalist and former atheist, sets out to disprove Christianity. Using his legal and journalistic skills, he interviews experts in relevant fields to examine the historical evidence for Jesus Christ.  Strobel's journey takes him from skepticism to faith, as he confronts the evidence for the resurrection and the reliability of the Gospels. This book presents a compelling case for the truth of Christianity.",
+      "author": "Lee Strobel",
+      "image": "https://m.media-amazon.com/images/I/71McrITcpNL.jpg",
+      "publishedDate": "1998-09-01",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "The Purpose Driven Life",
+      "id": 3,
+      "summary": "Rick Warren guides readers on a 40-day spiritual journey to discover God's purpose for their lives.  The book emphasizes the importance of worship, fellowship, discipleship, ministry, and evangelism. It offers practical steps for understanding God's plan and living a more meaningful life. Millions have found direction and inspiration through this book.",
+      "author": "Rick Warren",
+      "image": "https://m.media-amazon.com/images/I/71Qe9OuoejL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2002-10-01",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "A Book of Prayer",
+      "id": 4,
+      "summary": "This collection of prayers offers solace, guidance, and inspiration for various life situations.  The prayers cover a range of topics, including gratitude, forgiveness, healing, and strength. It provides a resource for both personal and communal prayer, drawing from diverse Christian traditions.  Readers can find words to express their deepest longings and connect with God.",
+      "author": "Various authors",
+      "image": "https://m.media-amazon.com/images/I/61Yefwzi9oL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2002-10-01",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "The Believer's authority",
+      "id": 5,
+      "summary": "\"The Believer's authority\" by Kenneth E. Hagin explores the spiritual authority that believers have in Christ. Hagin explains how understanding and applying this authority can lead to a victorious Christian life. Through biblical teachings and personal experiences, he emphasizes faith, prayer, and the power of God's Word. Originally published in 1984, this book continues to inspire and guide Christians in their spiritual journey.",
+      "author": "Kenneth E. Hagin",
+      "image": "https://m.media-amazon.com/images/I/813MWyTVdnL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "1984",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "The Power of Prayer",
+      "id": 6,
+      "summary": "\"The Power of Prayer\" by R.A. Torrey explores the practice and significance of prayer in the Christian life. It covers various aspects of prayer, including different types of prayer, how to pray effectively, and the power of prayer to bring about change. It shares testimonies of individuals whose lives have been transformed through prayer. Readers will be encouraged to deepen their relationship with God through consistent and fervent prayer.",
+      "author": "R.A. Torrey",
+      "image": "https://m.media-amazon.com/images/I/61pzml-pqBL.jpg",
+      "publishedDate": "2007",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "Knowing God",
+      "id": 7,
+      "summary": "\"Knowing God\" by J.I. Packer emphasizes the importance of knowing God intimately rather than just knowing about Him. He explores key attributes of God, such as His holiness, love, and wisdom. Packer challenges readers to cultivate a deeper relationship with God through study and prayer. This book offers a solid foundation for understanding Christian theology.",
+      "author": "J.I. Packer",
+      "image": "https://m.media-amazon.com/images/I/61P3-A4ZMDL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "1973",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "Crazy Love: Overwhelmed by a Relentless God",
+      "id": 8,
+      "summary": "\"Crazy Love: Overwhelmed by a Relentless God\" by Francis Chan challenges readers to examine the lukewarmness of their faith and embrace a radical love for God. He contrasts the comfortable, self-centered approach to Christianity with the passionate devotion described in the Bible. Chan urges readers to live lives of purpose and sacrifice, reflecting God's love to the world. This book is a wake-up call for those who desire a deeper relationship with God.",
+      "author": "Francis Chan",
+      "image": "https://m.media-amazon.com/images/I/9168q+SpcLL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2008",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "Evidence That Demands a Verdict",
+      "id": 9,
+      "summary": "\"Evidence That Demands a Verdict\" by Josh McDowell presents a comprehensive defense of the Christian faith, addressing common objections and challenges. He examines the historical reliability of the Bible, the evidence for the resurrection of Jesus Christ, and the claims of Christianity. McDowell provides a wealth of information and resources to support the truth of Christianity. This book is a valuable resource for both believers and skeptics.",
+      "author": "Josh McDowell",
+      "image": "https://m.media-amazon.com/images/I/81A3tw+jwHL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "1972",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "The Practice of the Presence of God",
+      "id": 10,
+      "summary": "\"The Practice of the Presence of God\" by Brother Lawrence, a Carmelite monk, shares his insights on cultivating a constant awareness of God's presence in daily life. He emphasizes the importance of practicing simple acts of devotion and offering all activities to God. Lawrence's teachings offer practical guidance for experiencing God's peace and joy in every moment. This book has inspired countless readers to seek a deeper relationship with God.",
+      "author": "Brother Lawrence",
+      "image": "https://m.media-amazon.com/images/I/71g6o1SpMlL.jpg",
+      "publishedDate": "1692",
+      "category": "genres",
+      "specificType": "Religion"
+    }
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "id": 11,
+      "summary": "Stephen Covey presents a principle-centered approach to personal and interpersonal effectiveness. He outlines seven habits based on timeless principles of character ethics. These habits include being proactive, beginning with the end in mind, putting first things first, thinking win-win, seeking first to understand, then to be understood, synergizing, and sharpening the saw. The book offers practical steps for achieving personal and professional success.",
+      "author": "Stephen Covey",
+      "image": "https://m.media-amazon.com/images/I/71Koyhv2bML.jpg",
+      "publishedDate": "1989-08-15",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "Daring Greatly",
+      "id": 12,
+      "summary": "Brené Brown explores the power of vulnerability in relationships, work, and life. She challenges the cultural myth that vulnerability is a weakness, arguing that it is the key to courage, connection, and authenticity. Brown encourages readers to embrace vulnerability, overcome shame, and live wholehearted lives. The book offers practical strategies for cultivating self-compassion and building resilience.",
+      "author": "Brené Brown",
+      "image": "https://m.media-amazon.com/images/I/81GOZ+-+yiL.jpg",
+      "publishedDate": "2012-09-11",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "Mindset: The New Psychology of Success",
+      "id": 13,
+      "summary": "Carol Dweck introduces the concept of the growth mindset, the belief that abilities can be developed through dedication and hard work. She contrasts this with the fixed mindset, the belief that abilities are innate and unchangeable. Dweck demonstrates how mindset affects achievement in school, work, sports, and relationships. The book offers practical advice for cultivating a growth mindset and achieving greater success.",
+      "author": "Carol S. Dweck",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436227012i/40745.jpg",
+      "publishedDate": "2006-02-28",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "How to Win Friends & Influence People",
+      "id": 14,
+      "summary": "Dale Carnegie offers timeless advice on building relationships and influencing others. He emphasizes the importance of empathy, active listening, and genuine appreciation. Carnegie provides practical techniques for making people like you, winning people to your way of thinking, and changing people without arousing resentment. The book is a classic guide to interpersonal skills and success.",
+      "author": "Dale Carnegie",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_BMh8s10yz7nzWLfO6Ny0C2lgMyTzqID7w&s",
+      "publishedDate": "1936-10-01",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "The Power of Habit",
+      "id": 15,
+      "summary": "Charles Duhigg explores the science of habit formation and how habits influence our lives. He explains the habit loop: cue, routine, and reward. Duhigg demonstrates how understanding the habit loop can help us break bad habits and form good ones. The book offers practical strategies for changing habits and achieving personal and professional goals.",
+      "author": "Charles Duhigg",
+      "image": "https://m.media-amazon.com/images/I/71wm29Etl4L.jpg",
+      "publishedDate": "2012-02-28",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "Atomic Habits",
+      "id": 16,
+      "summary": "James Clear provides a practical framework for building good habits and breaking bad ones. He emphasizes the importance of making small, incremental changes over time. Clear introduces the Four Laws of Behavior Change: make it obvious, make it attractive, make it easy, and make it satisfying. The book offers actionable strategies for improving habits and achieving long-term success.",
+      "author": "James Clear",
+      "image": "https://m.media-amazon.com/images/I/81ANaVZk5LL.jpg",
+      "publishedDate": "2018-10-16",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "The 5 Second Rule",
+      "id": 17,
+      "summary": "Mel Robbins introduces a simple yet powerful tool for overcoming procrastination and taking action. The 5 Second Rule involves counting down from 5 to 1 and then taking immediate action on your goals. Robbins argues that this technique can help you break through fear, doubt, and hesitation. The book offers practical advice for using the 5 Second Rule to improve productivity and achieve personal goals.",
+      "author": "Mel Robbins",
+      "image": "https://m.media-amazon.com/images/I/81K5YDjy3SL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2017-02-28",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "Declutter Your Mind",
+      "id": 18,
+      "summary": "S.J. Scott and Barrie Davenport provide a guide to reducing stress and improving focus by decluttering your mind. They explore the causes of mental clutter, such as negative thoughts, worries, and distractions. The authors offer practical techniques for managing thoughts, setting priorities, and creating a more peaceful and productive life. The book offers actionable strategies for improving mental clarity and well-being.",
+      "author": "S.J. Scott and Barrie Davenport",
+      "image": "https://m.media-amazon.com/images/I/61tyuDSNazL.jpg",
+      "publishedDate": "2016-08-23",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "Emotional Intelligence 2.0",
+      "id": 19,
+      "summary": "Travis Bradberry and Jean Greaves explore the importance of emotional intelligence (EQ) in personal and professional success. They define EQ as the ability to recognize, understand, and manage emotions in ourselves and others. The authors provide practical strategies for improving EQ skills, such as self-awareness, self-management, social awareness, and relationship management. The book offers a comprehensive guide to developing emotional intelligence.",
+      "author": "Travis Bradberry and Jean Greaves",
+      "image": "https://m.media-amazon.com/images/I/61-xsrzjQsL.jpg",
+      "publishedDate": "2009-06-16",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "Your Erroneous Zones",
+      "id": 20,
+      "summary": "Wayne Dyer challenges readers to overcome self-defeating thoughts and behaviors. He identifies common 'erroneous zones' that lead to unhappiness and dissatisfaction. Dyer provides practical techniques for taking control of your thoughts, emotions, and actions. The book encourages readers to live in the present moment and create a more fulfilling life.",
+      "author": "Wayne Dyer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Your_Erroneous_Zones.jpg",
+      "publishedDate": "1976-08-01",
+      "category": "genres",
+      "specificType": "Self-help"
+    }
+    {
+      "title": "To Kill a Mockingbird",
+      "id": 21,
+      "summary": "Set in the Depression-era South, this novel explores themes of racial injustice and childhood innocence. Scout Finch narrates the story of her father, Atticus, a lawyer defending a black man accused of assaulting a white woman. Through Scout's eyes, the reader witnesses the prejudice and hypocrisy of the small town of Maycomb, Alabama. It's a powerful story about morality and standing up for what's right.",
+      "author": "Harper Lee",
+      "image": "https://cdn2.penguin.com.au/covers/original/9781784752637.jpg",
+      "publishedDate": "1960-07-11",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "1984",
+      "id": 22,
+      "summary": "A dystopian novel depicting a totalitarian regime that controls every aspect of citizens' lives. Winston Smith rebels against the Party and its leader, Big Brother, in a desperate attempt to reclaim his individuality. He engages in a forbidden love affair and joins an underground resistance movement. The novel serves as a warning against the dangers of government overreach and the suppression of freedom.",
+      "author": "George Orwell",
+      "image": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9781350543034.jpg",
+      "publishedDate": "1949-06-08",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "Pride and Prejudice",
+      "id": 23,
+      "summary": "A witty and charming novel of manners set in 19th-century England. Elizabeth Bennet navigates the complexities of love and social class, encountering the proud and enigmatic Mr. Darcy. Their initial dislike for each other gradually transforms into a deep and abiding love. The story explores themes of prejudice, reputation, and the importance of first impressions.",
+      "author": "Jane Austen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToF3rQmRV-62NrWFpXRH-u6JXqroZpwaZ-Q&s",
+      "publishedDate": "1813-01-28",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "The Great Gatsby",
+      "id": 24,
+      "summary": "Set in the Roaring Twenties, this novel portrays the lavish lifestyle and moral decay of the wealthy elite. Jay Gatsby throws extravagant parties in the hopes of attracting the attention of his former love, Daisy Buchanan. The story explores themes of wealth, love, and the American Dream. Gatsby's tragic pursuit of an idealized past ultimately leads to his downfall.",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKi5lknrw7SIwZ01RQRqyvtXz2bFxrUsGVpA&s",
+      "publishedDate": "1925-04-10",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "One Hundred Years of Solitude",
+      "id": 25,
+      "summary": "A multi-generational saga chronicling the rise and fall of the Buendía family in the fictional town of Macondo. The novel blends magical realism with historical events, exploring themes of love, war, and fate. The Buendía family experiences both triumphs and tragedies, repeating patterns of behavior throughout the generations. It's a sweeping and imaginative tale of human nature and the cyclical nature of history.",
+      "author": "Gabriel García Márquez",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxBEWEeVk5I9ixKsBUIbx7a-vgAvbqPV",
+      "publishedDate": "1967-05-30",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "The Lord of the Rings",
+      "id": 26,
+      "summary": "In the realm of Middle-earth, a hobbit named Frodo Baggins inherits a powerful ring coveted by the Dark Lord Sauron. Frodo embarks on a perilous quest to destroy the Ring in the fires of Mount Doom, accompanied by a fellowship of diverse companions. They battle dark forces and face moral dilemmas as they strive to save Middle-earth from Sauron's tyranny. This epic fantasy explores themes of good versus evil, courage, and sacrifice.",
+      "author": "J.R.R. Tolkien",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwjvtARVQAFZvjgby4i1ev7I2h0OgHcG8YoQ&s",
+      "publishedDate": "1954-07-29",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "The Catcher in the Rye",
+      "id": 27,
+      "summary": "Holden Caulfield, a teenage boy, recounts his experiences in New York City after being expelled from boarding school. He struggles with feelings of alienation, phoniness, and the loss of innocence. Holden's cynical observations and rebellious behavior reflect his disillusionment with the adult world. The novel explores themes of adolescence, identity, and the search for authenticity.",
+      "author": "J.D. Salinger",
+      "image": "https://m.media-amazon.com/images/I/7108sdEUEGL.jpg",
+      "publishedDate": "1951-07-16",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "Animal Farm",
+      "id": 28,
+      "summary": "Animals on a farm overthrow their human oppressors and establish a society based on equality. However, the pigs gradually seize power and create a new form of tyranny, more oppressive than the original. The novel satirizes the Russian Revolution and the dangers of totalitarianism. It serves as a cautionary tale about the corrupting influence of power and the importance of vigilance.",
+      "author": "George Orwell",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xVwHqhhQpacPAW_rRKiEPELU3QOpKU1x3w&s",
+      "publishedDate": "1945-08-17",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "Brave New World",
+      "id": 29,
+      "summary": "A dystopian society where individuals are genetically engineered and conditioned to conform to a rigid social hierarchy. Citizens are kept happy through the use of a drug called Soma and the suppression of individual thought. Bernard Marx, an Alpha Plus intellectual, rebels against the World State and seeks meaning beyond the shallow pleasures of his society. The novel explores themes of freedom, happiness, and the dangers of technological control.",
+      "author": "Aldous Huxley",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18296181_b_v8_ae.jpg",
+      "publishedDate": "1932-08-30",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "The Handmaid's Tale",
+      "id": 30,
+      "summary": "In the Republic of Gilead, a totalitarian regime overthrows the U.S. government and subjects women to strict control. Offred, a Handmaid, is forced to bear children for the ruling class. She navigates the oppressive environment, remembering her past and yearning for freedom. The novel explores themes of gender, power, and resistance in a dystopian future.",
+      "author": "Margaret Atwood",
+      "image": "https://m.media-amazon.com/images/I/61su39k8NUL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "1985-09-01",
+      "category": "genres",
+      "specificType": "Fiction"
+    }
+    {
+      "title": "The Notebook",
+      "id": 31,
+      "summary": "An elderly man reads a love story to a woman in a nursing home, recounting the passionate romance between Noah and Allie...",
+      "author": "Nicholas Sparks",
+      "image": "https://m.media-amazon.com/images/I/81RgYxE272L._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "1996",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "Me Before You",
+      "id": 32,
+      "summary": "Louisa Clark takes a job caring for Will Traynor, a wealthy young man who is paralyzed...",
+      "author": "Jojo Moyes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFecAtXvXUTCpboK6Cwv8Gd73IDdy1fWKosw",
+      "publishedDate": "2012",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "The Love Hypothesis",
+      "id": 33,
+      "summary": "To convince her best friend that she's moved on, Olive, a PhD student, impulsively kisses a professor, Adam Carlsen...",
+      "author": "Ali Hazelwood",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611937942l/56732449.jpg",
+      "publishedDate": "2021",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "Red, White & Royal Blue",
+      "id": 34,
+      "summary": "Alex Claremont-Diaz, the First Son of the United States, and Prince Henry of Wales are forced to fake a friendship...",
+      "author": "Casey McQuiston",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566742512i/41150487.jpg",
+      "publishedDate": "2019",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "Outlander",
+      "id": 35,
+      "summary": "Claire Randall, a WWII nurse, is transported back in time to 18th-century Scotland...",
+      "author": "Diana Gabaldon",
+      "image": "https://m.media-amazon.com/images/I/91tjikkfB6L._UF1000,1000_QL80_.jpg",
+      "publishedDate": "1991",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "The Proposal",
+      "id": 36,
+      "summary": "After a very public marriage proposal goes wrong, Nikole Paterson escapes with a handsome doctor, Carlos Ibarra...",
+      "author": "Jasmine Guillory",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZPwsXdOyMYybN-Z-JZSSR32naUpWroSWKQ&s",
+      "publishedDate": "2018",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "From Lukov with Love",
+      "id": 37,
+      "summary": "Jasmine Santos is done with ice-skating. That is until she gets an offer from Ivan Lukov...",
+      "author": "Mariana Zapata",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9kRCt3xzhv35Rf8zHMfRtNvLWpe8MkYyQJdxz5LZk8KlPoxDeZUmSQ-xmWf85KuZP4UM&usqp=CAU",
+      "publishedDate": "2018",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "It Ends With Us",
+      "id": 38,
+      "summary": "Lily Bloom always believes in finding the good, even in bad situations...",
+      "author": "Colleen Hoover",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4EEPYbDupdhm2d_x7wTPWn8oNarNvC5fFw&s",
+      "publishedDate": "2016",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "People We Meet on Vacation",
+      "id": 39,
+      "summary": "Poppy and Alex are best friends, despite being complete opposites...",
+      "author": "Emily Henry",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618913179l/54985743.jpg",
+      "publishedDate": "2021",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": " বিবেচিত",
+      "id": 40,
+      "summary": "Evie Dasher is going through a rough patch after her boyfriend broke up with her...",
+      "author": "Alexa Donne",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7OomnbJN_M-4JMIZxFsymCoxCmqfOmo5Nbg&s",
+      "publishedDate": "2022",
+      "category": "genres",
+      "specificType": "Romance"
+    }
+    {
+      "title": "Leaves of Grass",
+      "id": 41,
+      "summary": "Walt Whitman's collection celebrates nature, democracy, and the human body...",
+      "author": "Walt Whitman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzf97AV_G_c68TuHex952WApbgrms3SoNXLg&",
+      "publishedDate": "1855",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "The Collected Poems of Emily Dickinson",
+      "id": 42,
+      "summary": "Emily Dickinson's poems are known for their unconventional use of punctuation and slant rhyme...",
+      "author": "Emily Dickinson",
+      "image": "https://www.hup.harvard.edu/img/feeds/jackets/9780674737969.png?fm=jpg&q=80&fit=max&w=630",
+      "publishedDate": "1955",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "The Waste Land and Other Poems",
+      "id": 43,
+      "summary": "T.S. Eliot's work reflects the disillusionment and fragmentation of modern society...",
+      "author": "T.S. Eliot",
+      "image": "https://m.media-amazon.com/images/I/81sQ7s1r3yL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "1922",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "Selected Poems",
+      "id": 44,
+      "summary": "Langston Hughes's poems capture the experiences of African Americans in the 20th century...",
+      "author": "Langston Hughes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPp4p6dlvwzjPs0fzNmBd5JSv5p20sSDyHoA&s",
+      "publishedDate": "1959",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "Twenty Love Poems and a Song of Despair",
+      "id": 45,
+      "summary": "Pablo Neruda's collection explores the themes of love, passion, and loss...",
+      "author": "Pablo Neruda",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4i3UDHlKBrJOY_4xKHzOx3Tm7Oo5yWtdvsw&s",
+      "publishedDate": "1924",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "Ariel",
+      "id": 46,
+      "summary": "This poetry book dives deep into the life of Sylvia Plath...",
+      "author": "Sylvia Plath",
+      "image": "https://m.media-amazon.com/images/I/71LasYWw0SL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "1965",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "Milk and Honey",
+      "id": 47,
+      "summary": "This is a collection of modern poetry by Rupi Kaur...",
+      "author": "Rupi Kaur",
+      "image": "https://images.gr-assets.com/books/1491595510l/23513349.jpg",
+      "publishedDate": "2014",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "The Sun and Her Flowers",
+      "id": 48,
+      "summary": "The poetry collection is about growth and healing...",
+      "author": "Rupi Kaur",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499791446i/35606560.jpg",
+      "publishedDate": "2017",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "Don't Call Us Dead",
+      "id": 49,
+      "summary": "This anthology dives deep into the black experience through the eyes of Danez Smith...",
+      "author": "Danez Smith",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYr4bTRf2d_MQ-JkFRlEdoZwJ_lwE_stnyA&s",
+      "publishedDate": "2017",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "Felon",
+      "id": 50,
+      "summary": "Reginald Dwayne Betts writes about the consequences of incarceration and the justice system...",
+      "author": "Reginald Dwayne Betts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFewsyCG8k9m3EUGa4q_KZC-js7iroMLrtw&s",
+      "publishedDate": "2019",
+      "category": "genres",
+      "specificType": "Poetry"
+    }
+    {
+      "title": "AI and the Future",
+      "id": 51,
+      "summary": "A cutting-edge exploration of artificial intelligence and its potential impact on society. Examines the latest advancements in AI, from machine learning to neural networks. Explores the ethical considerations surrounding AI development and deployment. Offers insights into how AI will transform industries and shape the future of work.",
+      "author": "Kai-Fu Lee",
+      "image": "https://m.media-amazon.com/images/I/61U1k1y6yyL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2018",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "Climate Crisis: Solutions Now",
+      "id": 52,
+      "summary": "A comprehensive guide to understanding and addressing the climate crisis. Presents the scientific evidence for climate change and its far-reaching consequences. Explores innovative solutions for reducing carbon emissions and transitioning to a sustainable future. Empowers readers to take action and advocate for climate policies.",
+      "author": "Greta Thunberg",
+      "image": "https://media.npr.org/assets/img/2023/02/08/climate_custom-2f3fd1f1fac778f8252bac59b2210e4fdb99a66b.jpg?s=1100&c=50&f=jpeg",
+      "publishedDate": "2023",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "The Metaverse Handbook",
+      "id": 53,
+      "summary": "An immersive journey into the world of the metaverse. Explains the key concepts and technologies behind virtual and augmented reality. Explores the potential applications of the metaverse in gaming, entertainment, education, and business. Offers a glimpse into the future of digital interaction and online communities.",
+      "author": "Cathy Hackl",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcEh6bh1fnWtkPfbf6luomvaptaVbvVyg47A&s",
+      "publishedDate": "2022",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "Web3 Revolution",
+      "id": 54,
+      "summary": "A deep dive into the decentralized web and the transformative potential of blockchain technology. Explains the concepts of cryptocurrencies, NFTs, and DAOs. Explores the implications of Web3 for ownership, privacy, and security. Offers insights into how Web3 will reshape the internet and empower individuals.",
+      "author": "Chris Dixon",
+      "image": "https://m.media-amazon.com/images/I/51l5tbjcgZL._SL500_.jpg",
+      "publishedDate": "2022",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "The Longevity Code",
+      "id": 55,
+      "summary": "A groundbreaking investigation into the science of aging and the quest for extending human lifespan. Explores the latest research on genetics, nutrition, and lifestyle factors that influence longevity. Offers practical strategies for optimizing health and slowing down the aging process. Provides a roadmap for living a longer, healthier, and more fulfilling life.",
+      "author": "David Sinclair",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499343011i/34397791.jpg",
+      "publishedDate": "2019",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "The Art of Remote Work",
+      "id": 56,
+      "summary": "A guide to thriving in the age of remote work. Offers practical tips for setting up a productive home office. Provides strategies for managing time, staying connected, and avoiding burnout. Explores the benefits and challenges of remote work for individuals and organizations.",
+      "author": "Chris Bailey",
+      "image": "https://m.media-amazon.com/images/I/71ZKQS6QjPL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2021",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "Digital Minimalism",
+      "id": 57,
+      "summary": "A guide to reclaiming your focus and attention in a world of digital distractions. Offers strategies for decluttering your digital life and reducing your screen time. Explores the benefits of disconnecting from technology and engaging in meaningful activities. Provides a roadmap for living a more intentional and fulfilling life in the digital age.",
+      "author": "Cal Newport",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhraW264d_uzSo0VQ-WXDkClqINcj4oPOtw&s",
+      "publishedDate": "2019",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "The Future of Education",
+      "id": 58,
+      "summary": "A visionary exploration of the future of learning and the transformative potential of technology in education. Examines the latest trends in online learning, personalized learning, and adaptive learning. Explores the role of AI, virtual reality, and gamification in enhancing the learning experience. Offers insights into how education will evolve to meet the needs of the 21st century.",
+      "author": "Sal Khan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsJ9CdrTRuBv7-swWBerQBp51Bz2QnaPafyw&s",
+      "publishedDate": "2012",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "Sustainable Investing",
+      "id": 59,
+      "summary": "A guide to investing in companies and projects that align with your values and contribute to a sustainable future. Explains the principles of environmental, social, and governance (ESG) investing. Offers strategies for identifying and evaluating sustainable investment opportunities. Provides a roadmap for building a portfolio that generates both financial returns and positive social impact.",
+      "author": "Amy Domini",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4H3_kvViKAv54CkplBz-erBkXgygjw5EFA&s",
+      "publishedDate": "2006",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "The Innovation Mindset",
+      "id": 60,
+      "summary": "A practical guide to fostering creativity and innovation in your work and life. Explores the key characteristics of innovative thinkers and organizations. Offers strategies for generating new ideas, overcoming obstacles, and bringing innovative solutions to market. Provides a roadmap for cultivating an innovation mindset and driving positive change.",
+      "author": "Linda Hill",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcArYC10cX8TTY6MDIFSUQZ20S02PIkX7Sxw&s",
+      "publishedDate": "2015",
+      "category": "discover",
+      "specificType": "Trending"
+    }
+    {
+      "title": "Echoes of the Past",
+      "id": 61,
+      "summary": "A gripping historical thriller set in post-World War II Europe. A young woman uncovers a hidden conspiracy while searching for her missing father. She faces danger and betrayal as she delves deeper into the secrets of the past. The story explores themes of identity, memory, and the enduring legacy of war.",
+      "author": "Eleanor Hughes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJxcgxkXAKCNWA5TDw6a7igNvz8CgnuFiLw&s",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "The Quantum Enigma",
+      "id": 62,
+      "summary": "A mind-bending science fiction novel that explores the mysteries of quantum physics and alternate realities. A brilliant scientist makes a groundbreaking discovery that could change the course of human history. He faces ethical dilemmas and existential threats as he grapples with the implications of his work. The story challenges our understanding of reality and the nature of consciousness.",
+      "author": "Arthur Finch",
+      "image": "https://m.media-amazon.com/images/I/61zj3ZFhw8L._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "The Forgotten Garden",
+      "id": 63,
+      "summary": "A heartwarming family saga set in the English countryside. A woman inherits a mysterious garden and uncovers long-lost secrets about her ancestors. She embarks on a journey of self-discovery as she pieces together the fragments of her family history. The story explores themes of love, loss, and the enduring power of family connections.",
+      "author": "Isabella Clarke",
+      "image": "https://historicalnovelsociety.org/wp-content/uploads/2018/10/the-forgotten-garden-kate-morton.jpg",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "The Last Lighthouse Keeper",
+      "id": 64,
+      "summary": "A haunting and atmospheric novel set on a remote island. The last lighthouse keeper reflects on his life and the changing world around him. He grapples with loneliness, isolation, and the forces of nature. The story explores themes of memory, solitude, and the search for meaning in a world that is rapidly disappearing.",
+      "author": "Samuel Blackwood",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR89hmnWejprKGcnM3bAakBNLaovxzSHqW_dA&s",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "City of Shadows",
+      "id": 65,
+      "summary": "A gritty and suspenseful crime novel set in a sprawling metropolis. A detective investigates a series of murders that are connected to a powerful criminal organization. He navigates a web of corruption, deceit, and violence as he seeks justice for the victims. The story explores themes of morality, power, and the dark side of urban life.",
+      "author": "Olivia Knight",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400780870i/21425500.jpg",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "The AI Revolution",
+      "id": 66,
+      "summary": "A non-fiction analysis of Artificial Intelligence. It showcases the impact that AI has on humanity. Through exploring AI, it discusses ethical considerations, technological growth, and how it influences the future of work. Dive into the future that is AI.",
+      "author": "Dr. Eliana Vance",
+      "image": "https://m.media-amazon.com/images/I/81pbDhNjgUL._UF1000,1000_QL80_.jpg",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "Beneath the Surface",
+      "id": 67,
+      "summary": "After a series of unfortunate events, Claire moves to a beach to start over. As she tries to restart her life, she meets a handsome man. She quickly falls in love, but soon, a secret arises that shows that everything is not as it seems. The novel explores the depths of deception.",
+      "author": "Julia Stone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmfMf0gtoIK29mQQbNzLFFO9hDxPWSuRcfg&s",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "Galactic Explorers",
+      "id": 68,
+      "summary": "Embark on a galactic voyage through space. The crew of a starship encounters a mysterious artifact. As they try to uncover the origins of the artifact, they travel through planets and encounter alien species. This explores themes of curiosity and the endless possibilities of space.",
+      "author": "Alex Orion",
+      "image": "https://m.media-amazon.com/images/I/81-N+8efeSL._UF1000,1000_QL80_.jpg",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "The Enchanted Forest",
+      "id": 69,
+      "summary": "Long ago, there was a magical forest. A young witch embarks on a journey to discover secrets of old. However, she is faced with dark magic and the unknown. In a tale of bravery, the witch learns about the importance of saving the forest and everything it holds.",
+      "author": "Luna Blackwood",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3KsAb72L6M9VE5vwVA99bdoZkAwYcrEhWA&s",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "The Art of Letting Go",
+      "id": 70,
+      "summary": "Isabelle is lost in her life and doesn't know what to do. However, she seeks guidance from a life coach to start the new chapter of her life. As she embarks on a journey to improve herself, she unlocks new potential and finds true meaning. This showcases the path of change and self-discovery.",
+      "author": "Ethan Grey",
+      "image": "https://m.media-amazon.com/images/I/61yhZ8TKwwL.jpg",
+      "publishedDate": "2024",
+      "category": "discover",
+      "specificType": "New Release"
+    }
+    {
+      "title": "Echoes of Tomorrow",
+      "id": 71,
+      "summary": "A time-traveling historian attempts to prevent a catastrophic event that threatens to erase the future. She must navigate treacherous timelines and confront powerful adversaries. The story explores themes of fate, free will, and the responsibility of shaping history.",
+      "author": "Sarah Timekeeper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMhZ685xlWKiv2grmB6MeEzz-HwfjhmI6VDQ&s",
+      "publishedDate": "2023",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "The Last Sanctuary",
+      "id": 72,
+      "summary": "In a post-apocalyptic world, a group of survivors seeks refuge in a hidden sanctuary. They must overcome internal conflicts and external threats to protect their fragile community. The story explores themes of resilience, hope, and the enduring power of the human spirit.",
+      "author": "Mark Shelter",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRcdfdYESv2J3vxX5VFUOB-vuKnzEVDMwFw&s",
+      "publishedDate": "2022",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "The Alchemist's Secret",
+      "id": 73,
+      "summary": "A young apprentice discovers a hidden manuscript that reveals the secrets of alchemy. He embarks on a quest to master the ancient art and unlock its transformative power. The story explores themes of knowledge, transformation, and the pursuit of enlightenment.",
+      "author": "Sophia Stone",
+      "image": "https://m.media-amazon.com/images/I/91TfLFPFcmL._AC_UF894,1000_QL80_.jpg",
+      "publishedDate": "2021",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "The Celestial Dance",
+      "id": 74,
+      "summary": "A celestial being descends to Earth and falls in love with a mortal. They must overcome the barriers between their worlds and defy the laws of the universe. The story explores themes of love, sacrifice, and the interconnectedness of all things.",
+      "author": "Astra Lumin",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK4sH0wveSkc2LqqoSJ1egtevoXNt54Tg9Q&s",
+      "publishedDate": "2023",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "The Shadow Syndicate",
+      "id": 75,
+      "summary": "A secret organization controls the world from behind the scenes. A group of rebels rises up to challenge their power and expose their sinister agenda. The story explores themes of freedom, justice, and the fight against oppression.",
+      "author": "Ethan Cipher",
+      "image": "https://m.media-amazon.com/images/I/71vwcU6cjTL.jpg",
+      "publishedDate": "2022",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "The Silent Patient",
+      "id": 76,
+      "summary": "Alicia Berenson shoots her husband five times in the face, and then never speaks another word. Theo Faber, a criminal psychotherapist, is determined to unravel what happened that night. He dives into the silent mind of Alicia and triggers the path to her truths.",
+      "author": "Alex Michaelides",
+      "image": "https://m.media-amazon.com/images/I/61R+Cpm+HxL._AC_UF894,1000_QL80_.jpg",
+      "publishedDate": "2019",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "Where the Crawdads Sing",
+      "id": 77,
+      "summary": "For years, rumors of the ‘Marsh Girl’ haunted Barkley Cove. Kya is mysterious and wild. However, she is drawn to two young men from town and opens herself up to a new life. A murder happens and Kya becomes a suspect. It asks the question: can she truly trust?",
+      "author": "Delia Owens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBCR-a0MYRdzzsjtdFtGHTYmA917_P3CSJg&s",
+      "publishedDate": "2018",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "id": 78,
+      "summary": "Evelyn Hugo is glamorous and reclusive, that is, until she decides to tell all to an unknown reporter, Monique Grant. She weaves through tales of ambition, unexpected love, and the price of fame. Evelyn's life intertwines with Monique, who is determined to tell the story. It's a whirlwind romance, a lesson, and a tale.",
+      "author": "Taylor Jenkins Reid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc7UhFBI0thXiqQJBLZdZMHKabL7Pe9Z36Iw&s",
+      "publishedDate": "2017",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "Project Hail Mary",
+      "id": 79,
+      "summary": "Ryland Grace wakes up with no memory on a spaceship. He is tasked with saving the world from an astronomical threat. Grace will have to remember his purpose and work to save humanity. He is humanity's last hope in this page-turner.",
+      "author": "Andy Weir",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597695864i/54493401.jpg",
+      "publishedDate": "2021",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "Daisy Jones & The Six",
+      "id": 80,
+      "summary": "Daisy Jones & The Six is the tale of a popular band that mysteriously broke up at the height of their fame. Told in an oral history, it follows the rise and fall of the band. The story is a whirlwind of sex, drugs, and rock 'n' roll.",
+      "author": "Taylor Jenkins Reid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8RaT-R5hjghGw7y5zBAvm8oUMZzAeDAoQg&s",
+      "publishedDate": "2019",
+      "category": "discover",
+      "specificType": "Popular"
+    }
+    {
+      "title": "The Immortal Game",
+      "id": 81,
+      "summary": "A group of immortals plays a game that spans centuries. They manipulate events and influence the course of history. A mortal stumbles upon their secret and becomes a pawn in their game. The story explores themes of power, ambition, and the consequences of immortality.",
+      "author": "Elias Thorne",
+      "image": "https://m.media-amazon.com/images/I/6113izbr2VL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2022",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "The Quantum Labyrinth",
+      "id": 82,
+      "summary": "A physicist discovers a way to travel between alternate universes. She becomes trapped in a quantum labyrinth and must find her way back home. She encounters different versions of herself and faces existential challenges. The story explores themes of identity, choice, and the nature of reality.",
+      "author": "Vivian Klein",
+      "image": "https://m.media-amazon.com/images/I/91STCQggDgL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2023",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "The Celestial Prophecy",
+      "id": 83,
+      "summary": "A prophecy foretells the arrival of a chosen one who will save the world from darkness. A young woman discovers that she is the prophesied savior. She must embrace her destiny and gather allies to confront the forces of evil. The story explores themes of courage, destiny, and the triumph of good over evil.",
+      "author": "Aurora Starling",
+      "image": "https://m.media-amazon.com/images/I/71OrIosRoML._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2021",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "The Time Traveler's Wife",
+      "id": 84,
+      "summary": "Henry DeTamble suffers from a rare genetic disorder that causes him to involuntarily time travel. His love for his wife, Clare, is tested as she struggles with his absences. This book is a touching reminder of the importance of living in the moment.",
+      "author": "Audrey Niffenegger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aIIDUt-M6okJM5J2yJrI79ylCtwIiZCJYA&s",
+      "publishedDate": "2003",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "Little Fires Everywhere",
+      "id": 85,
+      "summary": "Set in Shaker Heights, a family finds their lives upended by a mysterious mother and daughter. Mia Warren is an artist and single mother who arrives with secrets and challenges. Elena Richardson becomes obsessed with Mia. The story explores the weight of secrets.",
+      "author": "Celeste Ng",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4wB8zwbFV8dBm6pGVP1wLJbZn7M5d_aCgw&s",
+      "publishedDate": "2017",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "The Nightingale",
+      "id": 86,
+      "summary": "Two sisters in France struggle to survive during WWII. Viann is separated from her husband, while Isabelle joins the French Resistance. In a country torn by war, they make sacrifices and the meaning of family. This is an unforgettable story about the strength of the human spirit.",
+      "author": "Kristin Hannah",
+      "image": "https://m.media-amazon.com/images/I/81OkWjcf4WL._AC_UF1000,1000_QL80_.jpg",
+      "publishedDate": "2015",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "The Secret History",
+      "id": 87,
+      "summary": "A group of eccentric classics students at an elite New England college find themselves isolated. They embark on an experiment that leads to a tragic death. As the group tries to cover up the crime, they realize that there are deeper secrets. The story explores morality and the complexities of friendship.",
+      "author": "Donna Tartt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaO2XhghuDWWVR0Nq9KMCzREMdos2hyOda2w&s",
+      "publishedDate": "1992",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "Gone Girl",
+      "id": 88,
+      "summary": "Amy Dunne goes missing on her fifth wedding anniversary. All the clues point to her husband, Nick Dunne. As the police and media pressure mounts, Nick's story starts to unravel. The story is a twisty thriller that challenges your expectations.",
+      "author": "Gillian Flynn",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043.jpg",
+      "publishedDate": "2012",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "The Girl on the Train",
+      "id": 89,
+      "summary": "Rachel Watson rides the train to work every day, always watching the same houses. One day, she sees something shocking in the backyard of one of the houses. Rachel soon becomes entangled in a mystery that could change everything. The story showcases the dangers of obsession and the lies.",
+      "author": "Paula Hawkins",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574805682l/22557272.jpg",
+      "publishedDate": "2015",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+    {
+      "title": "The Hunger Games",
+      "id": 90,
+      "summary": "In Panem, teenagers are selected to compete in the annual Hunger Games, a brutal fight to the death. Katniss Everdeen volunteers in place of her sister and must use her skills to survive. She forms alliances and battles in a world of surveillance. This story dives into the themes of survival and sacrifice.",
+      "author": "Suzanne Collins",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLc2KDwl3F-5aKGGVguizqAZbNNaKZF9usw&s",
+      "publishedDate": "2008",
+      "category": "discover",
+      "specificType": "Best Seller"
+    }
+  
+  
