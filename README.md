@@ -65,8 +65,7 @@ Create a .env file in the backend directory and add these variables to your file
 
 ```
 
-ACCESS DEPLOYED BACKEND DATA
-```
-    [Access books database here](https://discover-book-alpha.vercel.app/api/books)
-    [Access authors database here](https://discover-book-alpha.vercel.app/api/authors)
-```
+## ACCESS DEPLOYED BACKEND 👇
+
+[Access books database here](https://discover-book-alpha.vercel.app/api/books)
+[Access authors database here](https://discover-book-alpha.vercel.app/api/authors)

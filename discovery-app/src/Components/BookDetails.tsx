@@ -46,7 +46,7 @@ export default function BookDetails() {
     
   useEffect(() => {
     if (allBooks.length > 0) {
-      const selectedBook = allBooks.find(book => book.id === parseInt(id));
+      const selectedBook = id ? allBooks.find(book => book.id === parseInt(id)) : undefined;
       setMatchedBooks(selectedBook || null);
     }
   }, [allBooks, id]);

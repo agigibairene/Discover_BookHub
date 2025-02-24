@@ -2,13 +2,13 @@ import { useContext, useState, RefObject } from "react";
 import logo from "../../assets/book.png";
 import { IoMoonSharp } from "react-icons/io5";
 import { FiSun } from "react-icons/fi";
-import { CiSearch } from "react-icons/ci";
+// import { CiSearch } from "react-icons/ci";
 import { Themes } from "../../Context/ThemeData";
 import { NavLink } from "react-router-dom";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { AnimatePresence, motion } from "framer-motion";
 import { NavAnimation } from "../../utils/animations";
-import SearchBar from "../../utils/SearchBar";
+// import SearchBar from "../../utils/SearchBar";
 
 interface NavList {
     name: string;
@@ -74,7 +74,7 @@ export default function Header({ refs}: RefProps){
                                             initial="hidden"
                                             whileInView={"show"}
                                             key={route}
-                                            onClick={()=>scrollToSection(label)}
+                                            onClick={()=>scrollToSection(label as "home" | "authors" | "bookSection" | "library")}
                                         >
                                             <NavLink 
                                                 className={({isActive})=> isActive ? "px-4 py-2 rounded-full text-white active" : ""} 
@@ -121,7 +121,7 @@ export default function Header({ refs}: RefProps){
                                                 navList.map(navs =>{
                                                     const { name, route, label } = navs;
                                                     return(
-                                                        <li key={route} onClick={()=>scrollToSection(label)}>
+                                                        <li key={route} onClick={()=>scrollToSection(label as "home" | "authors" | "bookSection" | "library")}>
                                                             <NavLink className={({isActive})=> isActive ? "px-4 py-2 rounded-full text-white active" : ""}  to={route}>
                                                                 {name}
                                                             </NavLink>

@@ -10,7 +10,7 @@ interface SearchBtn{
 export default function SearchBar({activateSearchFn} : SearchBtn) {
     const [isInputVisible, setIsInputVisible] = useState(false);
     const [search, setSearch] = useState("");
-    const inputRef = useRef<HTMLInputElement>();
+    const inputRef = useRef<HTMLInputElement>(null);
 
     function handleBtnSearch(){
         if (isInputVisible) {

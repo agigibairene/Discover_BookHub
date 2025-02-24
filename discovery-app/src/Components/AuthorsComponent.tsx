@@ -8,7 +8,7 @@ export default function AuthorsComponent() {
 
   const fetchAuthors = async () =>{
     try{
-      const response = await fetch(`http://localhost:3000/api/authors/`);
+      const response = await fetch(`https://discover-book-qskd4z5r1-irenes-projects-cb825986.vercel.app/api/authors`);
       const data = await response.json();
       setAuthors(data);
     }
