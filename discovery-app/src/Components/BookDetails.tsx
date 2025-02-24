@@ -19,7 +19,7 @@ export default function BookDetails() {
 
   const fetchAllBooks = async () =>{
     try{
-      const response = await fetch(`http://localhost:3000/api/books/`);
+      const response = await fetch(`https://discover-book-alpha.vercel.app/api/books`);
       const book = await response.json();
       setAllBooks(book);
     }
