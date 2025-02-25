@@ -7,7 +7,7 @@
 2. [MongoDB](https://www.mongodb.com/docs/manual/installation/)
 
 ## VISIT DISCOVER 
-[Visit UI of Discover](https://discovery-app-alpha.vercel.app/)
+👉 [Visit UI of Discover](https://discovery-app-alpha.vercel.app/)
 
 ## ACCESS DEPLOYED BACKEND 👇
 
