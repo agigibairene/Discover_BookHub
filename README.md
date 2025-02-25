@@ -6,10 +6,10 @@
 1. [Node.js](https://nodejs.org/en/download)
 2. [MongoDB](https://www.mongodb.com/docs/manual/installation/)
 
-## VISIT DISCOVER 
+## Visit Discover Book hub  
 👉 [Visit UI of Discover](https://discovery-app-alpha.vercel.app/)
 
-## ACCESS DEPLOYED BACKEND 👇
+## Access Deployed Backend 👇
 
 1. [Access books database here](https://discover-book-alpha.vercel.app/api/books)
 2. [Access authors database here](https://discover-book-alpha.vercel.app/api/authors)
