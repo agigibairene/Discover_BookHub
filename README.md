@@ -6,6 +6,13 @@
 1. [Node.js](https://nodejs.org/en/download)
 2. [MongoDB](https://www.mongodb.com/docs/manual/installation/)
 
+## VISIT DISCOVER 
+[Visit UI of Discover](https://discovery-app-alpha.vercel.app/)
+
+## ACCESS DEPLOYED BACKEND 👇
+
+1. [Access books database here](https://discover-book-alpha.vercel.app/api/books)
+2. [Access authors database here](https://discover-book-alpha.vercel.app/api/authors)
 
 
 ## Technologies and Packages used
@@ -64,8 +71,3 @@ Create a .env file in the backend directory and add these variables to your file
     POST http://localhost:3000/api/books/createBook
 
 ```
-
-## ACCESS DEPLOYED BACKEND 👇
-
-1. [Access books database here](https://discover-book-alpha.vercel.app/api/books)
-2. [Access authors database here](https://discover-book-alpha.vercel.app/api/authors)
