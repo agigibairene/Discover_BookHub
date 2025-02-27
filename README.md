@@ -33,8 +33,8 @@
 
 ## Set up project
 ```
-    git clone https://github.com/ALU-BSE/summative-a-react-discovery-app-agigibairene.git
-    cd summative-a-react-discovery-app-agibairene
+    git clone https://github.com/agigibairene/Discover_BookHub.git
+    cd Discover_BookHub
 ```
 
 ###  1. Setting up Backend:
