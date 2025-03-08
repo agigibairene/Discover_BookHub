@@ -10,9 +10,14 @@ const port = 3000;
 // Middleware
 app.use(express.json());
 app.use(cors({
-  origin: ["https://discovery-app-alpha.vercel.app/"],
-  credentials: true
+  origin: ["https://discovery-app-alpha.vercel.app"],
+  credentials: true,
+  methods: "GET,POST,PUT,DELETE,OPTIONS",
+  allowedHeaders: "Content-Type,Authorization"
 }));
+
+app.options("*", cors());
+
 
 app.use(session({
   secret: process.env.secretKey || "default_secret",
