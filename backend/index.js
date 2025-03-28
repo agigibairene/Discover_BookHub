@@ -6,19 +6,22 @@ const session = require('express-session');
 require('dotenv').config();
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 
 app.use(express.json());
 
 app.use(cors({
-  origin: "https://discovery-app-alpha.vercel.app",  
+  origin: ["http://localhost:5176", "https://discovery-app-alpha.vercel.app"],  
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"]
 }));
 
 app.use((req, res, next) => {
-  res.setHeader("Content-Security-Policy", "default-src 'self'; script-src 'self' https://vercel.live;");
+  res.setHeader(
+    "Content-Security-Policy",
+    "default-src 'self'; script-src 'self' 'unsafe-inline' https://vercel.live https://vercel.live/_next-live/;"
+  );
   next();
 });
 

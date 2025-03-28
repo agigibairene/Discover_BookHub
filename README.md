@@ -7,7 +7,7 @@
 2. [MongoDB](https://www.mongodb.com/docs/manual/installation/)
 
 ## Visit Discover Book hub  
-👉 [Visit UI of Discover](https://discovery-app-alpha.vercel.app/)
+👉 [Visit UI of Discover](https://discovery-app-five.vercel.app/)
 
 ## Access Deployed Backend 👇
 
