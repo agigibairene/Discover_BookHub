@@ -17,24 +17,22 @@ router.post("/createBook", async (req, res) => {
 // RETRIEVE ALL THE BOOKS IN THE DB
 router.get("/", async (req, res) => {
     try {
+        console.log("📥 GET /api/books", req.query);
         const { category, specificType } = req.query;
 
-        let query = {}; 
+        let query = {};
         if (category && specificType) {
-            query.category = category;
-            query.specificType = specificType;
+            query = { category, specificType };
         }
 
-        const books = await Book.find(query).sort({ createdAt: -1 }); 
-
+        const books = await Book.find(query).sort({ createdAt: -1 });
+        console.log("📤 Books found:", books.length);
         res.status(200).json(books);
     } catch (error) {
-        console.error("Error fetching books:", error);
+        console.error("❌ Error fetching books:", error);
         res.status(500).json({ message: "Failed to fetch books" });
     }
 });
-
-
 
 // RETRIEVE A SINGLE BOOK USING ID
 router.get('/:id', async (req, res) => {
