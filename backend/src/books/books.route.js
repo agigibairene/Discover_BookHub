@@ -34,17 +34,7 @@ router.get("/", async (req, res) => {
     }
 });
 
-// RETRIEVE BOOKS BY CATEGORY AND SPECIFICTYPE
-router.get('/books', async (req, res) => {
-    try {
-        const { category, specificType } = req.query;
-        const books = await Book.find({ category, specificType });
-        res.json(books);
-    } catch (error) {
-        console.error("Error fetching books:", error);
-        res.status(500).json({ message: 'Server error' });
-    }
-});
+
 
 // RETRIEVE A SINGLE BOOK USING ID
 router.get('/:id', async (req, res) => {
