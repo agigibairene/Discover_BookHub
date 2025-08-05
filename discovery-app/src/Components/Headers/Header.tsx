@@ -49,7 +49,6 @@ export default function Header({ refs}: RefProps){
         setDropDownMenu(false);
     };
 
-    console.log(theme)
 
     return(
         <header>

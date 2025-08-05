@@ -23,7 +23,6 @@ export default function BooksSection(){
     dispatch(fetchBooksCollection({ category: typeSelected, specificType }));
   }, [dispatch, typeSelected, specificType]);
 
-  console.log(`Books collection ${booksArr}`)
 
   return (
     <div className="min-h-screen text-white p-10 container">

@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 export default function HomePage(){
     return(
-        <section  >
+        <section>
             <div className="container grid grid-cols-1 md:grid-cols-2 min-h-[600px] px-12 mx-7">
                 <div className="flex flex-col justify-center py-14 md:py-0">
                     <div className="text-center md:text-left space-y-6">

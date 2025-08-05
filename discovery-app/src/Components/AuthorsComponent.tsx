@@ -40,7 +40,6 @@ export default function AuthorsComponent() {
     }
   }, []);
 
-  console.log(`AUTHORS: ${authors}`)
 
   return (
     <div  className="py-14 mb-10">

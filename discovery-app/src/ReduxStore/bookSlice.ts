@@ -10,7 +10,6 @@ const fetchBooks = async ({category, specificType}: FetchArg) =>{
     try{
         const response = await fetch(`https://discover-book-alpha.vercel.app/api/books?category=${category}&specificType=${specificType}`);
         const data = await response.json();
-        console.log(data);
         return data;
     }
     catch(err){

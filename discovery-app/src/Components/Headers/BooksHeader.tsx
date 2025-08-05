@@ -43,7 +43,6 @@ export default function BooksHeader() {
         selectedOption: state.bookSlicer.typeSelected,
         selectedNav: state.bookSlicer.specificType
     }), shallowEqual)
-    console.log(selectedOption, selectedNav);
 
     const handleSelectChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
         const selectedOption = e.target.value;
